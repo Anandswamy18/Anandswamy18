@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anandswamy18
 - 👀 I’m interested in web development, frontend development,single page application development, ui/ux.
 - 🌱 I’m currently learning React js and backend technologies like servlet and springs frameworks.
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Developmemnt process.
 - 📫 How to reach me anandsmathpati18@gmail.com
 
 <!---
